@@ -17,6 +17,7 @@
 <p align="center">
  <p>🎮 Video games</p>
  <p>💯 Coding</p>
+ <p>⚽ Football</p>
  <p>🖥 Computer science</p>
 </p>
 
