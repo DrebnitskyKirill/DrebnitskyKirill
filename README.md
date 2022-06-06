@@ -1,4 +1,4 @@
-desktop_computer Computer science<h1 align="center"> Hi there 👋</h1>
+<h1 align="center"> Hi there 👋</h1>
 
 <h2 align="center"> 🔧 Technology stack: </h2>
 <p align="center">
