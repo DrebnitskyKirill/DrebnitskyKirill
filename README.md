@@ -29,8 +29,7 @@
 
 
 <h2 align="center">✉️ My Telegram</h2>
-<p align='center'>
-<a href="https://t.me/Dkirillspb" title="Telegram!">
-<img src="https://telegram.org/img/t_logo.svg?1" width='60px' height='60px' style='width: 40px; height: 40px;'></a>
-</p>
-</br>
+
+[![Vkontakte](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=1E90FF)](https://vk.com/jesusk)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=1E90FF)](https://t.me/Dkirillspb)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=00FF00)](https://web.whatsapp.com/)
