@@ -19,7 +19,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass&logoColor=FF69B4)
 
 
-### ✉️ My Telegram
+### ✉️ My Contacts
 
 [![Vkontakte](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=1E90FF)](https://vk.com/jesusk)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=1E90FF)](https://t.me/Dkirillspb)
