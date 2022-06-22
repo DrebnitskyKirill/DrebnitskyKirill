@@ -1,7 +1,7 @@
 ![Header](https://github.com/DrebnitskyKirill/DrebnitskyKirill/blob/master/download.gif)
 <h1 align="center"> Hi there 👋</h1>
 
-<h2 align="center">👨🏻‍💻 I like: </h2>
+### 👨🏻‍💻 I like:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F88C00)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=00FFFF)
@@ -16,20 +16,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=4682B4)
 ![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=9932CC)
-[![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass&logoColor=FF69B4)]
+![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass&logoColor=FF69B4)
 
 
-
-<h2 align="center">👨🏻‍💻 I like: </h2>
-<p align="center">
- <p>🎮 Video games</p>
- <p>💯 Coding</p>
- <p>⚽ Football</p>
- <p>🖥 Computer science</p>
-</p>
-
-
-<h2 align="center">✉️ My Telegram</h2>
+### ✉️ My Telegram
 
 [![Vkontakte](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=1E90FF)](https://vk.com/jesusk)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=1E90FF)](https://t.me/Dkirillspb)
