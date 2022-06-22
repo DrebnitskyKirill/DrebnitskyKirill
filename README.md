@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there 👋</h1>
 
 <h2 align="center">👨🏻‍💻 I like: </h2>
-
+<h1>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F88C00)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=00FFFF)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=9400D3)
@@ -12,12 +12,12 @@
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express&logoColor=DAA520)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-090909?style=for-the-badge&logo=Sequelize&logoColor=1E90FF)
 ![PostgresQL](https://img.shields.io/badge/-PostgresQL-090909?style=for-the-badge&logo=PostgresQL&logoColor=00FFFF)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=32CD32)]
-[![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=4682B4)]
-[![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)]
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=9932CC)]
-[![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass&logoColor=FF69B4)]
- 
+![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=32CD32)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=4682B4)
+![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=9932CC)
+![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass&logoColor=FF69B4)
+ </h1>
 
 
 <h2 align="center">👨🏻‍💻 I like: </h2>
