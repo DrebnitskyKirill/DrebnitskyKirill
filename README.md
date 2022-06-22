@@ -2,7 +2,6 @@
 <h1 align="center"> Hi there 👋</h1>
 
 <h2 align="center"> 🔧 Technology stack: </h2>
-<p align="center">
 <![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=F88C00)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=00FFFF)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=9400D3)
@@ -18,7 +17,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=9932CC)
 ![Sass](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass&logoColor=FF69B4)
 
-</p>
 
 
 <h2 align="center">👨🏻‍💻 I like: </h2>
