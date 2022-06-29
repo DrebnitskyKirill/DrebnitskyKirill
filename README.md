@@ -2,8 +2,9 @@
 
 <h1 align="left"> Hi there 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DrebnitskyKirill&label=Profile%20views&color=0e75b6&style=flat" alt="DrebnitskyKirill" /> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=DrebnitskyKirill&show_icons=true&locale=en" alt="DrebnitskyKirill" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=DrebnitskyKirill&show_icons=true&locale=en" alt="DrebnitskyKirill" /></p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=DrebnitskyKirill&" alt="DrebnitskyKirill" /></p>
+
 ### 🔧 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
