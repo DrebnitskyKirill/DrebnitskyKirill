@@ -1,5 +1,6 @@
 ![Header](https://github.com/DrebnitskyKirill/DrebnitskyKirill/blob/master/download.gif)
 <h1 align="left"> Hi there 👋</h1>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DrebnitskyKirill&" alt="DrebnitskyKirill" /></p>
 
 ### 🔧 Tech Stack:
 
