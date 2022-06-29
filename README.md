@@ -1,6 +1,6 @@
 ![Header](https://github.com/DrebnitskyKirill/DrebnitskyKirill/blob/master/download.gif)
 <h1 align="left"> Hi there 👋</h1>
-https://github-readme-streak-stats.herokuapp.com/?user=nikogorichev&
+
 ### 🔧 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
