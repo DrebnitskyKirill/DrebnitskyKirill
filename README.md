@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=DrebnitskyKirill&show_icons=true&locale=en" alt="DrebnitskyKirill" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrebnitskyKirill&" alt="DrebnitskyKirill" />
 
-### 🔧 Tech Stack:
+### 🔧 СТЕК ТЕХНОЛОГИЙ:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,7 +26,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=4682B4)
 
-### ✉️ My Contacts
+### ✉️ Контакты
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-drebnitsky-02190b243)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dkirillspb)
