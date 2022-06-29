@@ -23,6 +23,6 @@
 
 ### ✉️ My Contacts
 
-[![Vkontakte](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=VK&logoColor=1E90FF)](https://vk.com/jesusk)
+[![Vkontakte](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/jesusk)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dkirillspb)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
