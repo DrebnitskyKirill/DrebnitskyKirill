@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=DrebnitskyKirill&show_icons=true&locale=en" alt="DrebnitskyKirill" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrebnitskyKirill&" alt="DrebnitskyKirill" />
 
-### 🔧 Стек Тухнологий:
+### 🔧 Стек Технологий:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
