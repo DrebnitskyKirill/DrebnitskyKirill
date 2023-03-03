@@ -1,7 +1,7 @@
 ![Header](https://github.com/DrebnitskyKirill/DrebnitskyKirill/blob/master/download.gif)
 
-<h1 align="center"> Привет  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h2>I am a Full-stack developer with over a year of experience, knowledge of modern JS syntax, ability to write and read the code.</h2>
+<h1 align="center"> Hi  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h4>I am a Full-stack developer with over a year of experience, knowledge of modern JS syntax, ability to write and read the code.</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DrebnitskyKirill&label=Profile%20views&color=0e75b6&style=flat" alt="DrebnitskyKirill" /> </p>
 <img src="https://github-readme-stats.vercel.app/api?username=DrebnitskyKirill&show_icons=true&locale=en" alt="DrebnitskyKirill" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrebnitskyKirill&" alt="DrebnitskyKirill" />
