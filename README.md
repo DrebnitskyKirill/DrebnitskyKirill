@@ -2,8 +2,8 @@
 
 <h1 align="center"> Привет  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h4>JavaScript разработчик, в область профессиональных интересов входит создание интерфейсов и серверная разработка, хотел бы попробовать разработку мобильных приложений и в создании высоконагруженных сервисов.<br> Согласен с цитатой «Все, что может быть написано на JavaScript, — будет написано на JavaScript» (c).</h4>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DrebnitskyKirill&label=Profile%20views&color=0e75b6&style=flat" alt="DrebnitskyKirill" /> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DrebnitskyKirill&show_icons=true&locale=en" alt="DrebnitskyKirill" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrebnitskyKirill&" alt="DrebnitskyKirill" />
 
 ### 🔧 Стек Технологий:
