@@ -1,7 +1,7 @@
 ![Header](https://github.com/DrebnitskyKirill/DrebnitskyKirill/blob/master/download.gif)
 
 <h1 align="center"> Привет  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h4>JavaScript разработчик, в область профессиональных интересов входит создание интерфейсов и серверная разработка, хотел бы попробовать разработку мобильных приложений и в создании высоконагруженных сервисов.<br> Согласен с цитатой «Все, что может быть написано на JavaScript, — будет написано на JavaScript» (c).</h4>
+<h4>JavaScript разработчик, в область профессиональных интересов входит создание интерфейсов и серверная разработка.<br> Согласен с цитатой «Все, что может быть написано на JavaScript, — будет написано на JavaScript» (c).</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DrebnitskyKirill&label=Profile%20views&color=0e75b6&style=flat" alt="DrebnitskyKirill" /> </p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrebnitskyKirill&" alt="DrebnitskyKirill" />
@@ -29,6 +29,6 @@
 
 ### ✉️ Контакты
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-drebnitsky-02190b243)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kirill-drebnitsky)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Dkirillspb)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/)
